@@ -1,10 +1,6 @@
-# UZOP Projekt (Predicting NBA Shots)
+# UZOP Projekt (Predicting NBA Shots) - Deskriptivna statistika
 
-#### Studenti:
 - Nikola Kraljević
-- Ana Ujević
-- Timon Rodić
-
 ___
 
 ## Upute:
